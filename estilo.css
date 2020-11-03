@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif);
+    background-attachment: fixed;
+    background-size: 100% 120%;
+    margin: 0;
+	padding: 0;
+    color: white;
+    text-align: center;
+}
+textarea{
+    opacity: 0.5;
+    width: 60%;
+    height: 30%;
+}
+div{
+    color: white;
+    font-size: 35px;
+}
